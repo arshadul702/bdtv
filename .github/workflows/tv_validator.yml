@@ -1,0 +1,50 @@
+name: BD tv
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # Runs every 2 hours
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository codebase
+        uses: actions/checkout@v4
+
+      - name: Initialize Python environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install required python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Execute massive unique validation script
+        run: python validate_tv.py
+
+      - name: Check file state changes
+        id: file_status
+        run: |
+          touch playlists.m3u8
+          git add playlists.m3u8
+          if git diff --cached --quiet playlists.m3u8; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push filtered unique results
+        if: steps.file_status.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "⚽ Sync Unique Live Sports Playlist: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git push
