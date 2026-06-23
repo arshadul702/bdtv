@@ -2,7 +2,7 @@ name: BD tv
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Runs every 2 hours
+    - cron: '0 * * * *' # Runs every 1 hours
   workflow_dispatch: # Allows manual trigger
 
 permissions:
@@ -11,7 +11,7 @@ permissions:
 jobs:
   build-and-run:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repository codebase
