@@ -64,6 +64,7 @@ def extract_unique_sports_links():
         if any(ext in clean_url.lower() for ext in ['.m3u8', '.ts', '.mpd', '/live', '/stream']) or "sports" in clean_url.lower():
             filtered_links.append(clean_url)
 
+    # DEDUPLICATION: Removes all duplicate links here
     unique_links = list(set(filtered_links))
     print(f"📊 Total raw streams scraped: {len(raw_links)}")
     print(f"🎯 Total UNIQUE streams left for verification: {len(unique_links)}")
@@ -90,21 +91,15 @@ def main():
     unique_sports_urls = extract_unique_sports_links()
     valid_streams = []
     
-    # Target capacity for final playlist
-    max_channels = 150 
+    print(f"⚡ Starting high-speed Multi-threaded validation (25 concurrent workers)...")
+    print(f"🔄 Scanning 100% of the unique list without early breaking...")
     
-    print(f"⚡ Starting high-speed Multi-threaded validation (20 concurrent workers)...")
-    
-    # Using ThreadPoolExecutor for concurrent network requests
-    with ThreadPoolExecutor(max_workers=20) as executor:
+    # Increased workers to 25 for even faster verification of the entire list
+    with ThreadPoolExecutor(max_workers=25) as executor:
         # Submit all validation tasks to the pool
         future_to_url = {executor.submit(is_stream_live, url): url for url in unique_sports_urls}
         
         for future in as_completed(future_to_url):
-            if len(valid_streams) >= max_channels:
-                print(f"Target reached ({max_channels} active lines). Cancelling remaining tasks.")
-                break
-                
             try:
                 url, is_live = future.result()
                 if is_live:
@@ -115,12 +110,13 @@ def main():
 
     # Output playlist generation
     if valid_streams:
-        with open("sports.m3u8", "w", encoding="utf-8") as f:
+        # FIXED: File name consistently targets playlists.m3u8
+        with open("playlists.m3u8", "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
             for i, stream_url in enumerate(valid_streams):
                 f.write(f"#EXTINF:-1 tvg-id='Sports-{i+1}' tvg-name='Sports {i+1}',Live Sports {i+1}\n")
                 f.write(f"{stream_url}\n")
-        print(f"✅ Success! sports.m3u8 updated with {len(valid_streams)} clean unique active streams.")
+        print(f"✅ Success! playlists.m3u8 updated with {len(valid_streams)} clean unique active streams.")
     else:
         print("❌ Script closed. No streams passed active network filters.")
 
