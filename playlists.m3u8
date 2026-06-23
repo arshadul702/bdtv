@@ -1,1 +1,431 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id='Sports-1' tvg-name='Sports 1',Live Sports 1
+https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg
+#EXTINF:-1 tvg-id='Sports-2' tvg-name='Sports 2',Live Sports 2
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-3' tvg-name='Sports 3',Live Sports 3
+https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png
+#EXTINF:-1 tvg-id='Sports-4' tvg-name='Sports 4',Live Sports 4
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-5' tvg-name='Sports 5',Live Sports 5
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+#EXTINF:-1 tvg-id='Sports-6' tvg-name='Sports 6',Live Sports 6
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-id='Sports-7' tvg-name='Sports 7',Live Sports 7
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-8' tvg-name='Sports 8',Live Sports 8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-9' tvg-name='Sports 9',Live Sports 9
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+#EXTINF:-1 tvg-id='Sports-10' tvg-name='Sports 10',Live Sports 10
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 tvg-id='Sports-11' tvg-name='Sports 11',Live Sports 11
+https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
+#EXTINF:-1 tvg-id='Sports-12' tvg-name='Sports 12',Live Sports 12
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-13' tvg-name='Sports 13',Live Sports 13
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-14' tvg-name='Sports 14',Live Sports 14
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/742610.ts
+#EXTINF:-1 tvg-id='Sports-15' tvg-name='Sports 15',Live Sports 15
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-16' tvg-name='Sports 16',Live Sports 16
+http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 tvg-id='Sports-17' tvg-name='Sports 17',Live Sports 17
+https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg
+#EXTINF:-1 tvg-id='Sports-18' tvg-name='Sports 18',Live Sports 18
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-19' tvg-name='Sports 19',Live Sports 19
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-id='Sports-20' tvg-name='Sports 20',Live Sports 20
+https://stream.spicefmbd.com/stream.m3u8
+#EXTINF:-1 tvg-id='Sports-21' tvg-name='Sports 21',Live Sports 21
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id='Sports-22' tvg-name='Sports 22',Live Sports 22
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-23' tvg-name='Sports 23',Live Sports 23
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id='Sports-24' tvg-name='Sports 24',Live Sports 24
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-25' tvg-name='Sports 25',Live Sports 25
+https://kazimmt.ami.bd/playlist/TF/TF-3.m3u8
+#EXTINF:-1 tvg-id='Sports-26' tvg-name='Sports 26',Live Sports 26
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-id='Sports-27' tvg-name='Sports 27',Live Sports 27
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-28' tvg-name='Sports 28',Live Sports 28
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id='Sports-29' tvg-name='Sports 29',Live Sports 29
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-id='Sports-30' tvg-name='Sports 30',Live Sports 30
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-31' tvg-name='Sports 31',Live Sports 31
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1 tvg-id='Sports-32' tvg-name='Sports 32',Live Sports 32
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-id='Sports-33' tvg-name='Sports 33',Live Sports 33
+https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png
+#EXTINF:-1 tvg-id='Sports-34' tvg-name='Sports 34',Live Sports 34
+https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg
+#EXTINF:-1 tvg-id='Sports-35' tvg-name='Sports 35',Live Sports 35
+http://103.213.31.111/HBOHD/index.m3u8
+#EXTINF:-1 tvg-id='Sports-36' tvg-name='Sports 36',Live Sports 36
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+#EXTINF:-1 tvg-id='Sports-37' tvg-name='Sports 37',Live Sports 37
+https://cdn-4.pishow.tv/live/1231/1231_1.m3u8
+#EXTINF:-1 tvg-id='Sports-38' tvg-name='Sports 38',Live Sports 38
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-39' tvg-name='Sports 39',Live Sports 39
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id='Sports-40' tvg-name='Sports 40',Live Sports 40
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id='Sports-41' tvg-name='Sports 41',Live Sports 41
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-42' tvg-name='Sports 42',Live Sports 42
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+#EXTINF:-1 tvg-id='Sports-43' tvg-name='Sports 43',Live Sports 43
+https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-44' tvg-name='Sports 44',Live Sports 44
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-45' tvg-name='Sports 45',Live Sports 45
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-46' tvg-name='Sports 46',Live Sports 46
+https://playztv.pages.dev/promo/master.m3u8
+#EXTINF:-1 tvg-id='Sports-47' tvg-name='Sports 47',Live Sports 47
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-48' tvg-name='Sports 48',Live Sports 48
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-49' tvg-name='Sports 49',Live Sports 49
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+#EXTINF:-1 tvg-id='Sports-50' tvg-name='Sports 50',Live Sports 50
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-51' tvg-name='Sports 51',Live Sports 51
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id='Sports-52' tvg-name='Sports 52',Live Sports 52
+http://103.175.73.12:8080/live/13/13_0.m3u8
+#EXTINF:-1 tvg-id='Sports-53' tvg-name='Sports 53',Live Sports 53
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-54' tvg-name='Sports 54',Live Sports 54
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-55' tvg-name='Sports 55',Live Sports 55
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-56' tvg-name='Sports 56',Live Sports 56
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+#EXTINF:-1 tvg-id='Sports-57' tvg-name='Sports 57',Live Sports 57
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id='Sports-58' tvg-name='Sports 58',Live Sports 58
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id='Sports-59' tvg-name='Sports 59',Live Sports 59
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+#EXTINF:-1 tvg-id='Sports-60' tvg-name='Sports 60',Live Sports 60
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-61' tvg-name='Sports 61',Live Sports 61
+https://streamer3.premio.link/alqamar/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-62' tvg-name='Sports 62',Live Sports 62
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8
+#EXTINF:-1 tvg-id='Sports-63' tvg-name='Sports 63',Live Sports 63
+https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png
+#EXTINF:-1 tvg-id='Sports-64' tvg-name='Sports 64',Live Sports 64
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-65' tvg-name='Sports 65',Live Sports 65
+http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-id='Sports-66' tvg-name='Sports 66',Live Sports 66
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
+#EXTINF:-1 tvg-id='Sports-67' tvg-name='Sports 67',Live Sports 67
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-id='Sports-68' tvg-name='Sports 68',Live Sports 68
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-id='Sports-69' tvg-name='Sports 69',Live Sports 69
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-70' tvg-name='Sports 70',Live Sports 70
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
+#EXTINF:-1 tvg-id='Sports-71' tvg-name='Sports 71',Live Sports 71
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-id='Sports-72' tvg-name='Sports 72',Live Sports 72
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-73' tvg-name='Sports 73',Live Sports 73
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-id='Sports-74' tvg-name='Sports 74',Live Sports 74
+https://corestream.ronaldovurdu.help//trt1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id='Sports-75' tvg-name='Sports 75',Live Sports 75
+https://cdn-4.pishow.tv/live/969/master.m3u8
+#EXTINF:-1 tvg-id='Sports-76' tvg-name='Sports 76',Live Sports 76
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id='Sports-77' tvg-name='Sports 77',Live Sports 77
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id='Sports-78' tvg-name='Sports 78',Live Sports 78
+http://starhub.pro/live/Anthony2/Anthony123/61674.ts
+#EXTINF:-1 tvg-id='Sports-79' tvg-name='Sports 79',Live Sports 79
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-80' tvg-name='Sports 80',Live Sports 80
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 tvg-id='Sports-81' tvg-name='Sports 81',Live Sports 81
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-82' tvg-name='Sports 82',Live Sports 82
+https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id='Sports-83' tvg-name='Sports 83',Live Sports 83
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
+#EXTINF:-1 tvg-id='Sports-84' tvg-name='Sports 84',Live Sports 84
+https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png
+#EXTINF:-1 tvg-id='Sports-85' tvg-name='Sports 85',Live Sports 85
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 tvg-id='Sports-86' tvg-name='Sports 86',Live Sports 86
+http://103.175.73.12:8080/live/271/271_0.m3u8
+#EXTINF:-1 tvg-id='Sports-87' tvg-name='Sports 87',Live Sports 87
+https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-88' tvg-name='Sports 88',Live Sports 88
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-89' tvg-name='Sports 89',Live Sports 89
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id='Sports-90' tvg-name='Sports 90',Live Sports 90
+http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
+#EXTINF:-1 tvg-id='Sports-91' tvg-name='Sports 91',Live Sports 91
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-92' tvg-name='Sports 92',Live Sports 92
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1 tvg-id='Sports-93' tvg-name='Sports 93',Live Sports 93
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-94' tvg-name='Sports 94',Live Sports 94
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-95' tvg-name='Sports 95',Live Sports 95
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+#EXTINF:-1 tvg-id='Sports-96' tvg-name='Sports 96',Live Sports 96
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
+#EXTINF:-1 tvg-id='Sports-97' tvg-name='Sports 97',Live Sports 97
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-id='Sports-98' tvg-name='Sports 98',Live Sports 98
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-id='Sports-99' tvg-name='Sports 99',Live Sports 99
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-100' tvg-name='Sports 100',Live Sports 100
+http://103.175.73.12:8080/live/256/256_0.m3u8
+#EXTINF:-1 tvg-id='Sports-101' tvg-name='Sports 101',Live Sports 101
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+#EXTINF:-1 tvg-id='Sports-102' tvg-name='Sports 102',Live Sports 102
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-103' tvg-name='Sports 103',Live Sports 103
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-id='Sports-104' tvg-name='Sports 104',Live Sports 104
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-id='Sports-105' tvg-name='Sports 105',Live Sports 105
+https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-106' tvg-name='Sports 106',Live Sports 106
+https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-id='Sports-107' tvg-name='Sports 107',Live Sports 107
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 tvg-id='Sports-108' tvg-name='Sports 108',Live Sports 108
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-id='Sports-109' tvg-name='Sports 109',Live Sports 109
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-110' tvg-name='Sports 110',Live Sports 110
+https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%204.png
+#EXTINF:-1 tvg-id='Sports-111' tvg-name='Sports 111',Live Sports 111
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id='Sports-112' tvg-name='Sports 112',Live Sports 112
+https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-113' tvg-name='Sports 113',Live Sports 113
+https://akdnetwork.co.in/live/cnnew/index.m3u8
+#EXTINF:-1 tvg-id='Sports-114' tvg-name='Sports 114',Live Sports 114
+https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
+#EXTINF:-1 tvg-id='Sports-115' tvg-name='Sports 115',Live Sports 115
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-116' tvg-name='Sports 116',Live Sports 116
+https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png
+#EXTINF:-1 tvg-id='Sports-117' tvg-name='Sports 117',Live Sports 117
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-118' tvg-name='Sports 118',Live Sports 118
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-id='Sports-119' tvg-name='Sports 119',Live Sports 119
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id='Sports-120' tvg-name='Sports 120',Live Sports 120
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id='Sports-121' tvg-name='Sports 121',Live Sports 121
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+#EXTINF:-1 tvg-id='Sports-122' tvg-name='Sports 122',Live Sports 122
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
+#EXTINF:-1 tvg-id='Sports-123' tvg-name='Sports 123',Live Sports 123
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-124' tvg-name='Sports 124',Live Sports 124
+https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8
+#EXTINF:-1 tvg-id='Sports-125' tvg-name='Sports 125',Live Sports 125
+https://kazimmt.ami.bd/playlist/TF/TF-2.m3u8
+#EXTINF:-1 tvg-id='Sports-126' tvg-name='Sports 126',Live Sports 126
+http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
+#EXTINF:-1 tvg-id='Sports-127' tvg-name='Sports 127',Live Sports 127
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-128' tvg-name='Sports 128',Live Sports 128
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
+#EXTINF:-1 tvg-id='Sports-129' tvg-name='Sports 129',Live Sports 129
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id='Sports-130' tvg-name='Sports 130',Live Sports 130
+https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 tvg-id='Sports-131' tvg-name='Sports 131',Live Sports 131
+http://103.175.73.12:8080/live/417/417_0.m3u8
+#EXTINF:-1 tvg-id='Sports-132' tvg-name='Sports 132',Live Sports 132
+http://103.175.73.12:8080/live/378/378_0.m3u8
+#EXTINF:-1 tvg-id='Sports-133' tvg-name='Sports 133',Live Sports 133
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-134' tvg-name='Sports 134',Live Sports 134
+https://cdn-3.pishow.tv/live/1253/master.m3u8
+#EXTINF:-1 tvg-id='Sports-135' tvg-name='Sports 135',Live Sports 135
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-136' tvg-name='Sports 136',Live Sports 136
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-137' tvg-name='Sports 137',Live Sports 137
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
+#EXTINF:-1 tvg-id='Sports-138' tvg-name='Sports 138',Live Sports 138
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+#EXTINF:-1 tvg-id='Sports-139' tvg-name='Sports 139',Live Sports 139
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 tvg-id='Sports-140' tvg-name='Sports 140',Live Sports 140
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
+#EXTINF:-1 tvg-id='Sports-141' tvg-name='Sports 141',Live Sports 141
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1 tvg-id='Sports-142' tvg-name='Sports 142',Live Sports 142
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1 tvg-id='Sports-143' tvg-name='Sports 143',Live Sports 143
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id='Sports-144' tvg-name='Sports 144',Live Sports 144
+https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png
+#EXTINF:-1 tvg-id='Sports-145' tvg-name='Sports 145',Live Sports 145
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-id='Sports-146' tvg-name='Sports 146',Live Sports 146
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id='Sports-147' tvg-name='Sports 147',Live Sports 147
+http://103.175.73.12:8080/live/23/23_0.m3u8
+#EXTINF:-1 tvg-id='Sports-148' tvg-name='Sports 148',Live Sports 148
+http://103.175.73.12:8080/live/19/19_0.m3u8
+#EXTINF:-1 tvg-id='Sports-149' tvg-name='Sports 149',Live Sports 149
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-150' tvg-name='Sports 150',Live Sports 150
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-151' tvg-name='Sports 151',Live Sports 151
+https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg
+#EXTINF:-1 tvg-id='Sports-152' tvg-name='Sports 152',Live Sports 152
+https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id='Sports-153' tvg-name='Sports 153',Live Sports 153
+https://cdn-tt.pages.dev/ch5.m3u8
+#EXTINF:-1 tvg-id='Sports-154' tvg-name='Sports 154',Live Sports 154
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id='Sports-155' tvg-name='Sports 155',Live Sports 155
+https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png
+#EXTINF:-1 tvg-id='Sports-156' tvg-name='Sports 156',Live Sports 156
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-157' tvg-name='Sports 157',Live Sports 157
+http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 tvg-id='Sports-158' tvg-name='Sports 158',Live Sports 158
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
+#EXTINF:-1 tvg-id='Sports-159' tvg-name='Sports 159',Live Sports 159
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-160' tvg-name='Sports 160',Live Sports 160
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+#EXTINF:-1 tvg-id='Sports-161' tvg-name='Sports 161',Live Sports 161
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+#EXTINF:-1 tvg-id='Sports-162' tvg-name='Sports 162',Live Sports 162
+http://93.184.10.248/MBCBollywood/index.m3u8
+#EXTINF:-1 tvg-id='Sports-163' tvg-name='Sports 163',Live Sports 163
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+#EXTINF:-1 tvg-id='Sports-164' tvg-name='Sports 164',Live Sports 164
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
+#EXTINF:-1 tvg-id='Sports-165' tvg-name='Sports 165',Live Sports 165
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-166' tvg-name='Sports 166',Live Sports 166
+http://103.175.73.12:8080/live/345/345_0.m3u8
+#EXTINF:-1 tvg-id='Sports-167' tvg-name='Sports 167',Live Sports 167
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-id='Sports-168' tvg-name='Sports 168',Live Sports 168
+http://103.175.73.12:8080/live/155/155_0.m3u8
+#EXTINF:-1 tvg-id='Sports-169' tvg-name='Sports 169',Live Sports 169
+http://103.175.73.12:8080/live/159/159_0.m3u8
+#EXTINF:-1 tvg-id='Sports-170' tvg-name='Sports 170',Live Sports 170
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-171' tvg-name='Sports 171',Live Sports 171
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:-1 tvg-id='Sports-172' tvg-name='Sports 172',Live Sports 172
+https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-173' tvg-name='Sports 173',Live Sports 173
+https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-174' tvg-name='Sports 174',Live Sports 174
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-175' tvg-name='Sports 175',Live Sports 175
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 tvg-id='Sports-176' tvg-name='Sports 176',Live Sports 176
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-177' tvg-name='Sports 177',Live Sports 177
+https://hlsb-us.god.tv/GODTV/USA-480.m3u8
+#EXTINF:-1 tvg-id='Sports-178' tvg-name='Sports 178',Live Sports 178
+http://103.175.73.12:8080/live/158/158_0.m3u8
+#EXTINF:-1 tvg-id='Sports-179' tvg-name='Sports 179',Live Sports 179
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/742611.ts
+#EXTINF:-1 tvg-id='Sports-180' tvg-name='Sports 180',Live Sports 180
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-id='Sports-181' tvg-name='Sports 181',Live Sports 181
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-id='Sports-182' tvg-name='Sports 182',Live Sports 182
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id='Sports-183' tvg-name='Sports 183',Live Sports 183
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-184' tvg-name='Sports 184',Live Sports 184
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id='Sports-185' tvg-name='Sports 185',Live Sports 185
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-186' tvg-name='Sports 186',Live Sports 186
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id='Sports-187' tvg-name='Sports 187',Live Sports 187
+https://live.sli.ke/live/npnhm84gz9/master.m3u8
+#EXTINF:-1 tvg-id='Sports-188' tvg-name='Sports 188',Live Sports 188
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id='Sports-189' tvg-name='Sports 189',Live Sports 189
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+#EXTINF:-1 tvg-id='Sports-190' tvg-name='Sports 190',Live Sports 190
+http://103.175.73.12:8080/live/143/143_0.m3u8
+#EXTINF:-1 tvg-id='Sports-191' tvg-name='Sports 191',Live Sports 191
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
+#EXTINF:-1 tvg-id='Sports-192' tvg-name='Sports 192',Live Sports 192
+http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
+#EXTINF:-1 tvg-id='Sports-193' tvg-name='Sports 193',Live Sports 193
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-194' tvg-name='Sports 194',Live Sports 194
+http://starhub.pro/live/Anthony2/Anthony123/113069.ts
+#EXTINF:-1 tvg-id='Sports-195' tvg-name='Sports 195',Live Sports 195
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id='Sports-196' tvg-name='Sports 196',Live Sports 196
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id='Sports-197' tvg-name='Sports 197',Live Sports 197
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-198' tvg-name='Sports 198',Live Sports 198
+http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
+#EXTINF:-1 tvg-id='Sports-199' tvg-name='Sports 199',Live Sports 199
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
+#EXTINF:-1 tvg-id='Sports-200' tvg-name='Sports 200',Live Sports 200
+https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
+#EXTINF:-1 tvg-id='Sports-201' tvg-name='Sports 201',Live Sports 201
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-202' tvg-name='Sports 202',Live Sports 202
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id='Sports-203' tvg-name='Sports 203',Live Sports 203
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-id='Sports-204' tvg-name='Sports 204',Live Sports 204
+https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id='Sports-205' tvg-name='Sports 205',Live Sports 205
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 tvg-id='Sports-206' tvg-name='Sports 206',Live Sports 206
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-id='Sports-207' tvg-name='Sports 207',Live Sports 207
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+#EXTINF:-1 tvg-id='Sports-208' tvg-name='Sports 208',Live Sports 208
+https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png
+#EXTINF:-1 tvg-id='Sports-209' tvg-name='Sports 209',Live Sports 209
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-210' tvg-name='Sports 210',Live Sports 210
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-211' tvg-name='Sports 211',Live Sports 211
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-id='Sports-212' tvg-name='Sports 212',Live Sports 212
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 tvg-id='Sports-213' tvg-name='Sports 213',Live Sports 213
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-id='Sports-214' tvg-name='Sports 214',Live Sports 214
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+#EXTINF:-1 tvg-id='Sports-215' tvg-name='Sports 215',Live Sports 215
+http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
