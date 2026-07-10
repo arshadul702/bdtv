@@ -3,419 +3,415 @@
 https://playztv.pages.dev/promo/master.m3u8
 #EXTINF:-1 tvg-id='Sports-2' tvg-name='Deshe Bideshe',Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-1 tvg-id='Sports-3' tvg-name='Ekushey TV',Ekushey TV
+#EXTINF:-1 tvg-id='Sports-3' tvg-name='Ekushay TV',Ekushay TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-id='Sports-4' tvg-name='SRK TV',SRK TV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-5' tvg-name='Deepto TV',Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-id='Sports-6' tvg-name='Desh TV (1080p)',Desh TV (1080p)
-https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
-#EXTINF:-1 tvg-id='Sports-7' tvg-name='Desh TV',Desh TV
-https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id='Sports-8' tvg-name='QURAN',QURAN
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-9' tvg-name='Sunnah Tv',Sunnah Tv
-http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
-#EXTINF:-1 tvg-id='Sports-10' tvg-name='AL SUNNAH TV',AL SUNNAH TV
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-11' tvg-name='Deshi TV (720p)',Deshi TV (720p)
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-12' tvg-name='Motor Vision',Motor Vision
+#EXTINF:-1 tvg-id='Sports-4' tvg-name='Motor Vision',Motor Vision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
-#EXTINF:-1 tvg-id='Sports-13' tvg-name='Bein Sports 1 Max Arabic',Bein Sports 1 Max Arabic
+#EXTINF:-1 tvg-id='Sports-5' tvg-name='Desh TV (1080p)',Desh TV (1080p)
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+#EXTINF:-1 tvg-id='Sports-6' tvg-name='Desh TV',Desh TV
+https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id='Sports-7' tvg-name='Bein Sports 1 Max Arabic',Bein Sports 1 Max Arabic
 http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
-#EXTINF:-1 tvg-id='Sports-14' tvg-name='ATN Music (360p)',ATN Music (360p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-15' tvg-name='Ananda TV',Ananda TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-16' tvg-name='Channel S',Channel S
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-8' tvg-name='Deshi TV HD',Deshi TV HD
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-9' tvg-name='Bein Sports 1',Bein Sports 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-10' tvg-name='Boishakhi TV',Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-id='Sports-11' tvg-name='PBS Kids',PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-12' tvg-name='BBC Cbeebies',BBC Cbeebies
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 tvg-id='Sports-13' tvg-name='Srk Tv',Srk Tv
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-14' tvg-name='Saudia Arabia',Saudia Arabia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1 tvg-id='Sports-15' tvg-name='Deepto TV',Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-id='Sports-16' tvg-name='Cartoon Network',Cartoon Network
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-id='Sports-17' tvg-name='Gazi TV',Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-id='Sports-18' tvg-name='My TV',My TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-19' tvg-name='Green TV (1080p)',Green TV (1080p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-20' tvg-name='PBS Kids',PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-21' tvg-name='Sky Sports',Sky Sports
-https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-22' tvg-name='Travel XP English',Travel XP English
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-23' tvg-name='Boishakhi TV',Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-id='Sports-24' tvg-name='T Sports HD',T Sports HD
-http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-id='Sports-25' tvg-name='ALMASIRA MUBASHER',ALMASIRA MUBASHER
-https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-26' tvg-name='Arabica TV',Arabica TV
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-27' tvg-name='Travel XP English NZ',Travel XP English NZ
-https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-28' tvg-name='Live Sports',Live Sports
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
-#EXTINF:-1 tvg-id='Sports-29' tvg-name='Bein Sports 1',Bein Sports 1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-30' tvg-name='Independent TV',Independent TV
-http://103.175.242.10:8080/independent/index.m3u8
-#EXTINF:-1 tvg-id='Sports-31' tvg-name='AL EKHBARIA',AL EKHBARIA
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-#EXTINF:-1 tvg-id='Sports-32' tvg-name='Madani Tv',Madani Tv
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 tvg-id='Sports-33' tvg-name='Saudi Quran',Saudi Quran
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-#EXTINF:-1 tvg-id='Sports-34' tvg-name='REAL WILD',REAL WILD
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-35' tvg-name='DW NEWS',DW NEWS
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id='Sports-36' tvg-name='AL EKHBARIA',AL EKHBARIA
-https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
-#EXTINF:-1 tvg-id='Sports-37' tvg-name='Bein Sports Direct',Bein Sports Direct
+#EXTINF:-1 tvg-id='Sports-19' tvg-name='Live Quran TV',Live Quran TV
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-20' tvg-name='Channel S',Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-21' tvg-name='Bein Sports Direct',Bein Sports Direct
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-id='Sports-38' tvg-name='FM Radio',FM Radio
-https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-id='Sports-39' tvg-name='Saudia Arabia',Saudia Arabia
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-#EXTINF:-1 tvg-id='Sports-40' tvg-name='Live Sports',Live Sports
-https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-#EXTINF:-1 tvg-id='Sports-41' tvg-name='QURAN RADIOTV SMC',QURAN RADIOTV SMC
-https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-42' tvg-name='G Series Drama',G Series Drama
+#EXTINF:-1 tvg-id='Sports-22' tvg-name='Green TV (1080p)',Green TV (1080p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-23' tvg-name='Ananda TV',Ananda TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-24' tvg-name='ATN Music',ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-25' tvg-name='Travel XP English EU',Travel XP English EU
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-26' tvg-name='Sky Sports',Sky Sports
+https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-27' tvg-name='Arabica TV',Arabica TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-28' tvg-name='DD Sports',DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 tvg-id='Sports-29' tvg-name='QURAN',QURAN
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-30' tvg-name='Sunnah Tv',Sunnah Tv
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
+#EXTINF:-1 tvg-id='Sports-31' tvg-name='AL Sunnah TV',AL Sunnah TV
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-32' tvg-name='G-Serise',G-Serise
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id='Sports-43' tvg-name='DW English _',DW English _
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id='Sports-44' tvg-name='Global News (US)',Global News (US)
-https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-#EXTINF:-1 tvg-id='Sports-45' tvg-name='T Global News (Canada)',T Global News (Canada)
+#EXTINF:-1 tvg-id='Sports-33' tvg-name='FM Radio',FM Radio
+https://stream.spicefmbd.com/stream.m3u8
+#EXTINF:-1 tvg-id='Sports-34' tvg-name='Independent TV',Independent TV
+http://103.175.242.10:8080/independent/index.m3u8
+#EXTINF:-1 tvg-id='Sports-35' tvg-name='T Global News (Canada)',T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-id='Sports-46' tvg-name='France News 24',France News 24
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id='Sports-47' tvg-name='CNN (US)',CNN (US)
+#EXTINF:-1 tvg-id='Sports-36' tvg-name='Travel XP English NZ',Travel XP English NZ
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-37' tvg-name='CNN (US)',CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id='Sports-48' tvg-name='Peace Tv English',Peace Tv English
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:-1 tvg-id='Sports-49' tvg-name='Iran International(EN)',Iran International(EN)
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:-1 tvg-id='Sports-50' tvg-name='News Max 2',News Max 2
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id='Sports-51' tvg-name='AL QAMAR',AL QAMAR
-https://streamer3.premio.link/alqamar/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-52' tvg-name='Sochi 24 HD',Sochi 24 HD
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-53' tvg-name='TRT WORLD',TRT WORLD
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id='Sports-54' tvg-name='Arihant TV',Arihant TV
-https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-id='Sports-55' tvg-name='NK',NK
-https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-56' tvg-name='Insight',Insight
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-57' tvg-name='France 24 English (720p)',France 24 English (720p)
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id='Sports-58' tvg-name='NDTV NEWS',NDTV NEWS
+#EXTINF:-1 tvg-id='Sports-38' tvg-name='DW NEWS',DW NEWS
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id='Sports-39' tvg-name='Live Sports',Live Sports
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
+#EXTINF:-1 tvg-id='Sports-40' tvg-name='ALMASIRA MUBASHER',ALMASIRA MUBASHER
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-41' tvg-name='Global News (US)',Global News (US)
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+#EXTINF:-1 tvg-id='Sports-42' tvg-name='DW Naws',DW Naws
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id='Sports-43' tvg-name='Saudi Quran',Saudi Quran
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id='Sports-44' tvg-name='DW English',DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
+#EXTINF:-1 tvg-id='Sports-45' tvg-name='Madina Live',Madina Live
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id='Sports-46' tvg-name='REAL WILD',REAL WILD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-47' tvg-name='AL EKHBARIA',AL EKHBARIA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 tvg-id='Sports-48' tvg-name='Ekushey TV (480p)',Ekushey TV (480p)
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-id='Sports-49' tvg-name='NDTV NEWS',NDTV NEWS
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-id='Sports-59' tvg-name='Doraemon TV',Doraemon TV
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id='Sports-60' tvg-name='Mr Bean Animated',Mr Bean Animated
-https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-50' tvg-name='Madani TV',Madani TV
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-id='Sports-51' tvg-name='QURAN RADIOTV SMC',QURAN RADIOTV SMC
+https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-52' tvg-name='News Max 2',News Max 2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id='Sports-53' tvg-name='AL EKHBARIA',AL EKHBARIA
+https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id='Sports-54' tvg-name='Insight',Insight
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-55' tvg-name='Iran International(EN)',Iran International(EN)
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+#EXTINF:-1 tvg-id='Sports-56' tvg-name='Sochi 24 HD',Sochi 24 HD
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-57' tvg-name='France News 24',France News 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id='Sports-58' tvg-name='Rongeen TV',Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id='Sports-59' tvg-name='NDTV English',NDTV English
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id='Sports-60' tvg-name='AL QAMAR',AL QAMAR
+https://streamer3.premio.link/alqamar/playlist.m3u8
 #EXTINF:-1 tvg-id='Sports-61' tvg-name='EWTN TV',EWTN TV
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8
-#EXTINF:-1 tvg-id='Sports-62' tvg-name='Amazon SAT',Amazon SAT
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id='Sports-63' tvg-name='Rongeen TV',Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id='Sports-64' tvg-name='AL ISTIQAMA',AL ISTIQAMA
-https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:-1 tvg-id='Sports-65' tvg-name='NDTV Hindi',NDTV Hindi
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-id='Sports-66' tvg-name='BAHRAIN QURAN',BAHRAIN QURAN
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-67' tvg-name='Colors Infinity SD',Colors Infinity SD
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-68' tvg-name='Channel-16',Channel-16
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id='Sports-69' tvg-name='Hindi Hits HD',Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-id='Sports-70' tvg-name='Channel 7',Channel 7
-http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
-#EXTINF:-1 tvg-id='Sports-71' tvg-name='Dhoom Music',Dhoom Music
-http://103.175.73.12:8080/live/378/378_0.m3u8
-#EXTINF:-1 tvg-id='Sports-72' tvg-name='FASHION ONE',FASHION ONE
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-73' tvg-name='Sheemaroo Bollywood',Sheemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-74' tvg-name='FASHION ONE',FASHION ONE
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-75' tvg-name='Digital Fashion',Digital Fashion
-http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
-#EXTINF:-1 tvg-id='Sports-76' tvg-name='Zee Anmol TV',Zee Anmol TV
-http://103.175.73.12:8080/live/256/256_0.m3u8
-#EXTINF:-1 tvg-id='Sports-77' tvg-name='Zee Action',Zee Action
-http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1 tvg-id='Sports-78' tvg-name='Action Hollywood Movies',Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-79' tvg-name='A SPOR',A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
-#EXTINF:-1 tvg-id='Sports-80' tvg-name='Star Sports 1 HD',Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-id='Sports-81' tvg-name='Goldmines Bollywood',Goldmines Bollywood
-http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 tvg-id='Sports-82' tvg-name='Food Food',Food Food
-http://103.175.73.12:8080/live/143/143_0.m3u8
-#EXTINF:-1 tvg-id='Sports-83' tvg-name='NDTV English',NDTV English
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-id='Sports-84' tvg-name='Nursary Rhymes',Nursary Rhymes
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id='Sports-85' tvg-name='Peace TV Urdu',Peace TV Urdu
-https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
-#EXTINF:-1 tvg-id='Sports-86' tvg-name='Ekushey TV (480p)',Ekushey TV (480p)
-https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 tvg-id='Sports-87' tvg-name='9XM',9XM
-http://103.175.73.12:8080/live/155/155_0.m3u8
-#EXTINF:-1 tvg-id='Sports-88' tvg-name='Animal Planet HD',Animal Planet HD
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-89' tvg-name='Music Mastii',Music Mastii
-https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id='Sports-90' tvg-name='E24',E24
-http://103.175.73.12:8080/live/159/159_0.m3u8
-#EXTINF:-1 tvg-id='Sports-91' tvg-name='YRF Music HD',YRF Music HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-92' tvg-name='Music India',Music India
-http://103.175.73.12:8080/live/158/158_0.m3u8
-#EXTINF:-1 tvg-id='Sports-93' tvg-name='NHK World',NHK World
-http://103.175.73.12:8080/live/417/417_0.m3u8
-#EXTINF:-1 tvg-id='Sports-94' tvg-name='Baallee',Baallee
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id='Sports-95' tvg-name='RTV',RTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id='Sports-96' tvg-name='Press TV Iran',Press TV Iran
-https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:-1 tvg-id='Sports-97' tvg-name='Mohona Tv',Mohona Tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id='Sports-98' tvg-name='B4U Movies',B4U Movies
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-99' tvg-name='Colors Infinity HD',Colors Infinity HD
-http://66.102.126.10:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-id='Sports-100' tvg-name='Cowboy tv',Cowboy tv
-https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-101' tvg-name='EP tv',EP tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-102' tvg-name='Times Of India',Times Of India
-https://live.sli.ke/live/npnhm84gz9/master.m3u8
-#EXTINF:-1 tvg-id='Sports-103' tvg-name='Rajdhani tv',Rajdhani tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id='Sports-104' tvg-name='Bein Sports',Bein Sports
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 tvg-id='Sports-105' tvg-name='MBC tv',MBC tv
-http://93.184.10.248/MBCBollywood/index.m3u8
-#EXTINF:-1 tvg-id='Sports-106' tvg-name='NAGORIK TV HD',NAGORIK TV HD
-http://103.163.117.83:8063/ch8/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id='Sports-107' tvg-name='South Movies',South Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id='Sports-108' tvg-name='Live Sports-10',Live Sports-10
-http://ua102.online24.pm:8222/1101/video.m3u8?token=350B326FB34F4B8
-#EXTINF:-1 tvg-id='Sports-109' tvg-name='Motu Patlu',Motu Patlu
+#EXTINF:-1 tvg-id='Sports-62' tvg-name='Peace TV English',Peace TV English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-id='Sports-63' tvg-name='Tom & Jerry TV',Tom & Jerry TV
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-64' tvg-name='Gopal Bhar TV',Gopal Bhar TV
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-65' tvg-name='Motu Patlu',Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id='Sports-110' tvg-name='Hindi Movies',Hindi Movies
+#EXTINF:-1 tvg-id='Sports-66' tvg-name='NDTV Hindi',NDTV Hindi
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-id='Sports-67' tvg-name='NK',NK
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-68' tvg-name='Arihant TV',Arihant TV
+https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id='Sports-69' tvg-name='Channel 7',Channel 7
+http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
+#EXTINF:-1 tvg-id='Sports-70' tvg-name='AL ISTIQAMA',AL ISTIQAMA
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-id='Sports-71' tvg-name='France 24 English (720p)',France 24 English (720p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id='Sports-72' tvg-name='Press TV Iran',Press TV Iran
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-id='Sports-73' tvg-name='ZB Cartoon',ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-id='Sports-74' tvg-name='Sheemaroo Bollywood',Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-75' tvg-name='FASHION ONE',FASHION ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-76' tvg-name='FASHION ONE',FASHION ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-77' tvg-name='Digital Fashion',Digital Fashion
+http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
+#EXTINF:-1 tvg-id='Sports-78' tvg-name='Joo Music',Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-79' tvg-name='Mr Bean Animated',Mr Bean Animated
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-80' tvg-name='Amazon SAT',Amazon SAT
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id='Sports-81' tvg-name='BAHRAIN QURAN',BAHRAIN QURAN
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-82' tvg-name='Dhoom Music',Dhoom Music
+http://103.175.73.12:8080/live/378/378_0.m3u8
+#EXTINF:-1 tvg-id='Sports-83' tvg-name='pcv',pcv
+https://padmaonline.duckdns.org:8088/pcv/index.m3u8
+#EXTINF:-1 tvg-id='Sports-84' tvg-name='Hindi Hits HD',Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-id='Sports-85' tvg-name='Tom & Jarry',Tom & Jarry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-86' tvg-name='Zee Anmol TV',Zee Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8
+#EXTINF:-1 tvg-id='Sports-87' tvg-name='Big Magic',Big Magic
+http://103.175.73.12:8080/live/13/13_0.m3u8
+#EXTINF:-1 tvg-id='Sports-88' tvg-name='Zee Action',Zee Action
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-id='Sports-89' tvg-name='Nursary Rhymes',Nursary Rhymes
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id='Sports-90' tvg-name='Goldmines Bollywood',Goldmines Bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 tvg-id='Sports-91' tvg-name='Action Hollywood Movies',Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-92' tvg-name='Star Sports 1 HD',Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-id='Sports-93' tvg-name='R Plus Gold',R Plus Gold
+https://cdn-4.pishow.tv/live/1231/1231_1.m3u8
+#EXTINF:-1 tvg-id='Sports-94' tvg-name='Music Mastii',Music Mastii
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-95' tvg-name='Food Food',Food Food
+http://103.175.73.12:8080/live/143/143_0.m3u8
+#EXTINF:-1 tvg-id='Sports-96' tvg-name='AAKASH AATH',AAKASH AATH
+https://cdn-4.pishow.tv/live/969/master.m3u8
+#EXTINF:-1 tvg-id='Sports-97' tvg-name='B4U Movies',B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-98' tvg-name='Peace TV Urdu',Peace TV Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+#EXTINF:-1 tvg-id='Sports-99' tvg-name='E24',E24
+http://103.175.73.12:8080/live/159/159_0.m3u8
+#EXTINF:-1 tvg-id='Sports-100' tvg-name='9XM',9XM
+http://103.175.73.12:8080/live/155/155_0.m3u8
+#EXTINF:-1 tvg-id='Sports-101' tvg-name='Baallee',Baallee
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-102' tvg-name='Music India',Music India
+http://103.175.73.12:8080/live/158/158_0.m3u8
+#EXTINF:-1 tvg-id='Sports-103' tvg-name='YRF Music HD',YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-104' tvg-name='NAGORIK TV HD',NAGORIK TV HD
+http://103.163.117.83:8063/ch8/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id='Sports-105' tvg-name='B4U Kadak',B4U Kadak
+https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 tvg-id='Sports-106' tvg-name='Goldmines Movies',Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-id='Sports-107' tvg-name='NHK World',NHK World
+http://103.175.73.12:8080/live/417/417_0.m3u8
+#EXTINF:-1 tvg-id='Sports-108' tvg-name='Goldmines Movies 2',Goldmines Movies 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-id='Sports-109' tvg-name='MBC tv',MBC tv
+http://93.184.10.248/MBCBollywood/index.m3u8
+#EXTINF:-1 tvg-id='Sports-110' tvg-name='Doraemon TV',Doraemon TV
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-111' tvg-name='Hindi Movies',Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id='Sports-111' tvg-name='HBO',HBO
-http://103.213.31.111/HBOHD/index.m3u8
-#EXTINF:-1 tvg-id='Sports-112' tvg-name='Bein Sports Tekrar',Bein Sports Tekrar
-https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 tvg-id='Sports-113' tvg-name='RT News (EN)',RT News (EN)
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-114' tvg-name='Cartoon Network English',Cartoon Network English
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-115' tvg-name='RT NEWS USA',RT NEWS USA
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
-#EXTINF:-1 tvg-id='Sports-116' tvg-name='Football World Cup 2026 4K',Football World Cup 2026 4K
-http://fastshare1.com/live/25711345/late8airline/745270.ts
-#EXTINF:-1 tvg-id='Sports-117' tvg-name='Football World Cup 2026',Football World Cup 2026
+#EXTINF:-1 tvg-id='Sports-112' tvg-name='Times Of India',Times Of India
+https://live.sli.ke/live/npnhm84gz9/master.m3u8
+#EXTINF:-1 tvg-id='Sports-113' tvg-name='South Movies',South Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-114' tvg-name='Football World Cup 2026',Football World Cup 2026
 https://cdn-tt.pages.dev/ch1.m3u8
+#EXTINF:-1 tvg-id='Sports-115' tvg-name='R Plus News',R Plus News
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id='Sports-116' tvg-name='HBO',HBO
+http://103.213.31.111/HBOHD/index.m3u8
+#EXTINF:-1 tvg-id='Sports-117' tvg-name='Football World Cup 2026',Football World Cup 2026
+https://cdn-tt.pages.dev/ch2.m3u8
 #EXTINF:-1 tvg-id='Sports-118' tvg-name='Football World Cup 2026',Football World Cup 2026
 https://cdn-tt.pages.dev/ch6.m3u8
-#EXTINF:-1 tvg-id='Sports-119' tvg-name='Football World Cup 2026',Football World Cup 2026
-https://cdn-tt.pages.dev/ch2.m3u8
-#EXTINF:-1 tvg-id='Sports-120' tvg-name='Football World Cup 2026',Football World Cup 2026
-http://103.151.60.162:2121/play/a013/index.m3u8?hls
-#EXTINF:-1 tvg-id='Sports-121' tvg-name='BD VS ZIM',BD VS ZIM
-http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 tvg-id='Sports-122' tvg-name='Football World Cup 2026 4K',Football World Cup 2026 4K
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-#EXTINF:-1 tvg-id='Sports-123' tvg-name='Football World Cup 2026',Football World Cup 2026
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id='Sports-124' tvg-name='Football World Cup 2026',Football World Cup 2026
-https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
-#EXTINF:-1 tvg-id='Sports-125' tvg-name='Football World Cup 2026',Football World Cup 2026
-http://fastshare1.com/live/25711345/late8airline/741567.ts
-#EXTINF:-1 tvg-id='Sports-126' tvg-name='Football World Cup 2026',Football World Cup 2026
-https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
-#EXTINF:-1 tvg-id='Sports-127' tvg-name='Football World Cup 2026',Football World Cup 2026
-http://fastshare1.com/live/25711345/late8airline/751354.ts
-#EXTINF:-1 tvg-id='Sports-128' tvg-name='Football World Cup 2026',Football World Cup 2026
-http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id='Sports-129' tvg-name='Football World Cup 2026',Football World Cup 2026
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id='Sports-130' tvg-name='Football World Cup 2026',Football World Cup 2026
-http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id='Sports-131' tvg-name='Football World Cup 2026',Football World Cup 2026
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id='Sports-132' tvg-name='Football World Cup 2026',Football World Cup 2026
-http://103.165.93.31:8095/unt-s/video.m3u8
-#EXTINF:-1 tvg-id='Sports-133' tvg-name='Football World Cup 2026',Football World Cup 2026
-http://fastshare1.com/live/25711345/late8airline/742610.ts
-#EXTINF:-1 tvg-id='Sports-134' tvg-name='Football World Cup 2026',Football World Cup 2026
-http://66.102.126.10:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id='Sports-135' tvg-name='Football World Cup 2026',Football World Cup 2026
-http://fastshare1.com/live/25711345/late8airline/742611.ts
-#EXTINF:-1 tvg-id='Sports-136' tvg-name='Gopal Bhar',Gopal Bhar
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id='Sports-137' tvg-name='Football World Cup 2026',Football World Cup 2026
-https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id='Sports-138' tvg-name='Football World Cup 2026',Football World Cup 2026
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-139' tvg-name='ATN Bangla UK',ATN Bangla UK
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-140' tvg-name='Football World Cup 2026',Football World Cup 2026
-http://fifabangladesh.top/BRAZIL2/LIVE/play.m3u8?q=1300
-#EXTINF:-1 tvg-id='Sports-141' tvg-name='NTV UK',NTV UK
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-142' tvg-name='Football World Cup 2026',Football World Cup 2026
-https://edge22.776740.ir.cdn.ir/hls2/tv3.m3u8
-#EXTINF:-1 tvg-id='Sports-143' tvg-name='Green TV',Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id='Sports-144' tvg-name='Asian TV',Asian TV
-https://mtlivestream.com/hls/asian/ytlive/index.m3u8
-#EXTINF:-1 tvg-id='Sports-145' tvg-name='Bangla TV Europe',Bangla TV Europe
-https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1 tvg-id='Sports-146' tvg-name='Channel 1 News 4K',Channel 1 News 4K
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id='Sports-147' tvg-name='Makkah TV',Makkah TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-148' tvg-name='Peace TV Bangla',Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id='Sports-149' tvg-name='God TV',God TV
-https://hlsb-us.god.tv/GODTV/USA-480.m3u8
-#EXTINF:-1 tvg-id='Sports-150' tvg-name='Amar Bangla',Amar Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-151' tvg-name='Hare Krsna',Hare Krsna
-https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
-#EXTINF:-1 tvg-id='Sports-152' tvg-name='R Plus Gould',R Plus Gould
+#EXTINF:-1 tvg-id='Sports-119' tvg-name='A SPOR',A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+#EXTINF:-1 tvg-id='Sports-120' tvg-name='Bein Sports',Bein Sports
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-id='Sports-121' tvg-name='Football World Cup 2026 4K',Football World Cup 2026 4K
+http://fastshare1.com/live/25711345/late8airline/745270.ts
+#EXTINF:-1 tvg-id='Sports-122' tvg-name='R Plus Gould',R Plus Gould
 https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
-#EXTINF:-1 tvg-id='Sports-153' tvg-name='MK Six',MK Six
+#EXTINF:-1 tvg-id='Sports-123' tvg-name='Goldmines',Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-id='Sports-124' tvg-name='MK Six',MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
-#EXTINF:-1 tvg-id='Sports-154' tvg-name='Enter 10 Bangla',Enter 10 Bangla
+#EXTINF:-1 tvg-id='Sports-125' tvg-name='BD VS ZIM',BD VS ZIM
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 tvg-id='Sports-126' tvg-name='Football World Cup 2026 4K',Football World Cup 2026 4K
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+#EXTINF:-1 tvg-id='Sports-127' tvg-name='Football World Cup 2026',Football World Cup 2026
+http://103.151.60.162:2121/play/a013/index.m3u8?hls
+#EXTINF:-1 tvg-id='Sports-128' tvg-name='Football World Cup 2026',Football World Cup 2026
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id='Sports-129' tvg-name='Cartoon Network English',Cartoon Network English
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-130' tvg-name='Football World Cup 2026',Football World Cup 2026
+https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
+#EXTINF:-1 tvg-id='Sports-131' tvg-name='Football World Cup 2026',Football World Cup 2026
+http://fastshare1.com/live/25711345/late8airline/751354.ts
+#EXTINF:-1 tvg-id='Sports-132' tvg-name='Football World Cup 2026',Football World Cup 2026
+http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id='Sports-133' tvg-name='Football World Cup 2026',Football World Cup 2026
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id='Sports-134' tvg-name='Football World Cup 2026',Football World Cup 2026
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id='Sports-135' tvg-name='Football World Cup 2026',Football World Cup 2026
+http://fastshare1.com/live/25711345/late8airline/741567.ts
+#EXTINF:-1 tvg-id='Sports-136' tvg-name='Football World Cup 2026',Football World Cup 2026
+http://fastshare1.com/live/25711345/late8airline/742610.ts
+#EXTINF:-1 tvg-id='Sports-137' tvg-name='Kolkata TV',Kolkata TV
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+#EXTINF:-1 tvg-id='Sports-138' tvg-name='Football World Cup 2026',Football World Cup 2026
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id='Sports-139' tvg-name='RTNEWS GLOBAL',RTNEWS GLOBAL
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
+#EXTINF:-1 tvg-id='Sports-140' tvg-name='Football World Cup 2026',Football World Cup 2026
+http://fastshare1.com/live/25711345/late8airline/742611.ts
+#EXTINF:-1 tvg-id='Sports-141' tvg-name='Football World Cup 2026',Football World Cup 2026
+http://103.165.93.31:8095/unt-s/video.m3u8
+#EXTINF:-1 tvg-id='Sports-142' tvg-name='Live Sports-10',Live Sports-10
+http://ua102.online24.pm:8222/1101/video.m3u8?token=350B326FB34F4B8
+#EXTINF:-1 tvg-id='Sports-143' tvg-name='Football World Cup 2026',Football World Cup 2026
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-144' tvg-name='ATN Bangla UK',ATN Bangla UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-145' tvg-name='RT NEWS USA',RT NEWS USA
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
+#EXTINF:-1 tvg-id='Sports-146' tvg-name='RT Now',RT Now
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-147' tvg-name='Football World Cup 2026',Football World Cup 2026
+https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id='Sports-148' tvg-name='Football World Cup 2026',Football World Cup 2026
+http://fifabangladesh.top/BRAZIL2/LIVE/play.m3u8?q=1300
+#EXTINF:-1 tvg-id='Sports-149' tvg-name='NTV UK',NTV UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-150' tvg-name='Green TV',Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id='Sports-151' tvg-name='Asian TV',Asian TV
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+#EXTINF:-1 tvg-id='Sports-152' tvg-name='Bangla TV Europe',Bangla TV Europe
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+#EXTINF:-1 tvg-id='Sports-153' tvg-name='Football World Cup 2026',Football World Cup 2026
+https://edge22.776740.ir.cdn.ir/hls2/tv3.m3u8
+#EXTINF:-1 tvg-id='Sports-154' tvg-name='Football World Cup 2026',Football World Cup 2026
+https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
+#EXTINF:-1 tvg-id='Sports-155' tvg-name='God TV',God TV
+https://hlsb-us.god.tv/GODTV/USA-480.m3u8
+#EXTINF:-1 tvg-id='Sports-156' tvg-name='Peace TV Bangla',Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id='Sports-157' tvg-name='Amar Bangla',Amar Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-158' tvg-name='Hare Krsna',Hare Krsna
+https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
+#EXTINF:-1 tvg-id='Sports-159' tvg-name='Enter 10 Bangla',Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id='Sports-155' tvg-name='Zee Bangla Cinema',Zee Bangla Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
-#EXTINF:-1 tvg-id='Sports-156' tvg-name='AAKASH AATH',AAKASH AATH
-https://cdn-4.pishow.tv/live/969/master.m3u8
-#EXTINF:-1 tvg-id='Sports-157' tvg-name='Colors Bangla Cinema',Colors Bangla Cinema
-http://66.102.126.10:8000/play/a015/index.m3u8
-#EXTINF:-1 tvg-id='Sports-158' tvg-name='Bangla Movies',Bangla Movies
+#EXTINF:-1 tvg-id='Sports-160' tvg-name='Bangla Movies',Bangla Movies
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1 tvg-id='Sports-159' tvg-name='Zee Bangla Cinema',Zee Bangla Cinema
+#EXTINF:-1 tvg-id='Sports-161' tvg-name='Zee Bangla Cinema',Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
+#EXTINF:-1 tvg-id='Sports-162' tvg-name='Zee Bangla Cinema',Zee Bangla Cinema
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
-#EXTINF:-1 tvg-id='Sports-160' tvg-name='News18 Bangla News',News18 Bangla News
-https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-161' tvg-name='TV9 Bangla',TV9 Bangla
+#EXTINF:-1 tvg-id='Sports-163' tvg-name='Colors Bangla Cinema',Colors Bangla Cinema
+http://66.102.126.10:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id='Sports-164' tvg-name='TV9 Bangla',TV9 Bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-162' tvg-name='Sangeet Bangla',Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 tvg-id='Sports-163' tvg-name='ABP Ananda',ABP Ananda
-https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-164' tvg-name='Zee 24 Ghanta',Zee 24 Ghanta
+#EXTINF:-1 tvg-id='Sports-165' tvg-name='Zee 24 Ghanta',Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-id='Sports-165' tvg-name='Bantul The Great',Bantul The Great
-https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id='Sports-166' tvg-name='Tom & Jerry TV',Tom & Jerry TV
-https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id='Sports-166' tvg-name='News18 Bangla News',News18 Bangla News
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id='Sports-167' tvg-name='Oggy and the Cockroaches',Oggy and the Cockroaches
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id='Sports-168' tvg-name='R Plus News',R Plus News
-https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id='Sports-169' tvg-name='Calcutta News',Calcutta News
+#EXTINF:-1 tvg-id='Sports-168' tvg-name='Sangeet Bangla',Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-id='Sports-169' tvg-name='ABP Ananda',ABP Ananda
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-170' tvg-name='Calcutta News',Calcutta News
 https://akdnetwork.co.in/live/cnnew/index.m3u8
-#EXTINF:-1 tvg-id='Sports-170' tvg-name='Big Magic',Big Magic
-http://103.175.73.12:8080/live/13/13_0.m3u8
-#EXTINF:-1 tvg-id='Sports-171' tvg-name='Kolkata TV',Kolkata TV
-https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+#EXTINF:-1 tvg-id='Sports-171' tvg-name='Hinde Movies 3',Hinde Movies 3
+https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-id='Sports-172' tvg-name='Zee Anmol Cinema',Zee Anmol Cinema
 http://103.175.73.12:8080/live/271/271_0.m3u8
-#EXTINF:-1 tvg-id='Sports-173' tvg-name='Hinde Movies 3',Hinde Movies 3
-https://vods2.aynaott.com/hindimovies/index.m3u8
-#EXTINF:-1 tvg-id='Sports-174' tvg-name='Colors Cineplex HD',Colors Cineplex HD
+#EXTINF:-1 tvg-id='Sports-173' tvg-name='Colors Cineplex HD',Colors Cineplex HD
 http://66.102.126.10:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-id='Sports-174' tvg-name='Manoranjan Movies',Manoranjan Movies
+http://103.175.73.12:8080/live/23/23_0.m3u8
 #EXTINF:-1 tvg-id='Sports-175' tvg-name='Manoranjan Prime',Manoranjan Prime
 http://103.175.73.12:8080/live/345/345_0.m3u8
-#EXTINF:-1 tvg-id='Sports-176' tvg-name='Manoranjan Movies',Manoranjan Movies
-http://103.175.73.12:8080/live/23/23_0.m3u8
+#EXTINF:-1 tvg-id='Sports-176' tvg-name='DD Sports 2.0',DD Sports 2.0
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id='Sports-177' tvg-name='Manoranjan Grend',Manoranjan Grend
 http://103.175.73.12:8080/live/19/19_0.m3u8
-#EXTINF:-1 tvg-id='Sports-178' tvg-name='DD Sports 2.0',DD Sports 2.0
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-id='Sports-179' tvg-name='Discovery Bangla',Discovery Bangla
+#EXTINF:-1 tvg-id='Sports-178' tvg-name='Discovery Bangla',Discovery Bangla
 http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-id='Sports-180' tvg-name='Nat Geo HD',Nat Geo HD
-http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id='Sports-181' tvg-name='BBC Earth',BBC Earth
+#EXTINF:-1 tvg-id='Sports-179' tvg-name='BBC Earth',BBC Earth
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-182' tvg-name='BBC Earth',BBC Earth
+#EXTINF:-1 tvg-id='Sports-180' tvg-name='BBC Earth',BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-181' tvg-name='Nat Geo HD',Nat Geo HD
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id='Sports-182' tvg-name='Animal Planet HD',Animal Planet HD
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-id='Sports-183' tvg-name='Wild Earth',Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id='Sports-184' tvg-name='Discover Pakistan TV',Discover Pakistan TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-185' tvg-name='Tom & Jarry',Tom & Jarry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-185' tvg-name='Colors Infinity HD',Colors Infinity HD
+http://66.102.126.10:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id='Sports-186' tvg-name='CGTN Docment',CGTN Docment
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 tvg-id='Sports-187' tvg-name='Zoo Moo',Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-188' tvg-name='Star Movies Select HD',Star Movies Select HD
-http://66.102.126.10:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id='Sports-189' tvg-name='Star Movies HD',Star Movies HD
+#EXTINF:-1 tvg-id='Sports-188' tvg-name='Star Movies HD',Star Movies HD
 http://66.102.126.10:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id='Sports-189' tvg-name='Star Movies Select HD',Star Movies Select HD
+http://66.102.126.10:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id='Sports-190' tvg-name='CNN',CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-191' tvg-name='France 24',France 24
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-192' tvg-name='CGTN News',CGTN News
+#EXTINF:-1 tvg-id='Sports-191' tvg-name='CGTN News',CGTN News
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-192' tvg-name='France 24',France 24
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id='Sports-193' tvg-name='CNA News',CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id='Sports-194' tvg-name='Enter10 Bangla',Enter10 Bangla
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-195' tvg-name='ATN BANGLA UK',ATN BANGLA UK
-https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-196' tvg-name='Lotus',Lotus
+#EXTINF:-1 tvg-id='Sports-194' tvg-name='Ekushey TV',Ekushey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id='Sports-195' tvg-name='Lotus',Lotus
 https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8
-#EXTINF:-1 tvg-id='Sports-197' tvg-name='Discovery Hindi',Discovery Hindi
+#EXTINF:-1 tvg-id='Sports-196' tvg-name='Enter10 Bangla',Enter10 Bangla
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-197' tvg-name='ATN BANGLA UK',ATN BANGLA UK
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-198' tvg-name='Discovery Hindi',Discovery Hindi
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
-#EXTINF:-1 tvg-id='Sports-198' tvg-name='Star Jalsha HD',Star Jalsha HD
+#EXTINF:-1 tvg-id='Sports-199' tvg-name='Star Jalsha HD',Star Jalsha HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
-#EXTINF:-1 tvg-id='Sports-199' tvg-name='DD Bangla',DD Bangla
+#EXTINF:-1 tvg-id='Sports-200' tvg-name='DD Bangla',DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
-#EXTINF:-1 tvg-id='Sports-200' tvg-name='TV9 Bangla',TV9 Bangla
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id='Sports-201' tvg-name='ACCU WEATHER',ACCU WEATHER
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
-#EXTINF:-1 tvg-id='Sports-202' tvg-name='MU | 8XM',MU | 8XM
-https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
+#EXTINF:-1 tvg-id='Sports-202' tvg-name='TV9 Bangla',TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id='Sports-203' tvg-name='Bangla Jago',Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-#EXTINF:-1 tvg-id='Sports-204' tvg-name='Ekushey TV',Ekushey TV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-id='Sports-205' tvg-name='Deepto TV',Deepto TV
+#EXTINF:-1 tvg-id='Sports-204' tvg-name='Deepto TV',Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-id='Sports-205' tvg-name='MU | 8XM',MU | 8XM
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-id='Sports-206' tvg-name='R Plus News',R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-id='Sports-207' tvg-name='Breaking News',Breaking News
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id='Sports-208' tvg-name='ZB Cartoon',ZB Cartoon
-https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-id='Sports-209' tvg-name='RTNEWS GLOBAL',RTNEWS GLOBAL
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
-#EXTINF:-1 tvg-id='Sports-210' tvg-name='Love Nature',Love Nature
+#EXTINF:-1 tvg-id='Sports-208' tvg-name='Love Nature',Love Nature
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
